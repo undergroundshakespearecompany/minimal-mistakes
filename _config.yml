@@ -236,9 +236,9 @@ defaults:
   # _posts
   - scope:
       path: ""
-      type: posts
+      type: page
     values:
-      layout: single
+      layout: page
       background_image_path: /docs/assets/images/mouse.png
       image: /docs/assets/images/mouse.png
       author_profile: true
