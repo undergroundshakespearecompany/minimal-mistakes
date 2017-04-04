@@ -236,7 +236,7 @@ defaults:
   # _posts
   - scope:
       path: ""
-      type: page
+      type: pages
     values:
       layout: splash
       background_image_path: /docs/assets/images/mouse.png
