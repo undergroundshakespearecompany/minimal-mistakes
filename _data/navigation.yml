@@ -1,14 +1,14 @@
 # main links
 main:
-  - title: "Quick-Start Guide"
+  - title: "ABOUT USC"
     url: /docs/quick-start-guide/
-  - title: "Posts"
+  - title: "PAST SHOWS"
     url: /year-archive/
-  - title: "Categories"
+  - title: "COMPANY"
     url: /categories/
-  - title: "Tags"
+  - title: "UPCOMING EVENTS"
     url: /tags/
-  - title: "Pages"
+  - title: "PAGES"
     url: /pages/
   - title: "Collections"
     url: /collection-archive/
