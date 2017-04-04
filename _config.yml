@@ -239,6 +239,8 @@ defaults:
       type: posts
     values:
       layout: single
+      background_image_path: /docs/assets/images/mouse.png
+      image: /docs/assets/images/mouse.png
       author_profile: true
       read_time: true
       comments: # true
