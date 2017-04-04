@@ -238,7 +238,7 @@ defaults:
       path: ""
       type: page
     values:
-      layout: page
+      layout: splash
       background_image_path: /docs/assets/images/mouse.png
       image: /docs/assets/images/mouse.png
       author_profile: true
