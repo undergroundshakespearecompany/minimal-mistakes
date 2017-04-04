@@ -1,7 +1,7 @@
 # main links
 main:
   - title: "ABOUT USC"
-    url: /about/
+    url: https://undergroundshakespearecompany.github.io/_pages/about
   - title: "PAST SHOWS"
     url: /year-archive/
   - title: "COMPANY"
